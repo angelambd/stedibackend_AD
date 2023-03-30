@@ -39,3 +39,5 @@ steps:
     Dockerfile: 'applications/clouddemo/netcore/Dockerfile'
     command: buildAndPush
     repository: '$(DockerImageName)'
+
+# Commits
